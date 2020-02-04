@@ -1,0 +1,5 @@
+task awsCleanup(type: Exec) {
+    dependsOn npmInstall
+    commandLine nodeExecutable
+    args "index.js"
+}

@@ -1,0 +1,4 @@
+/.idea/
+/.gradle/
+/aws-credentials.json
+node_modules

@@ -1,2 +1,2 @@
-# aws-cleanup
-Scripts that allow easy removal of your AWS resources based on a prefix
+# aws-utils
+Scripts for doing various AWS operations
